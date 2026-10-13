@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "FREE: Freeboard-Regulated Egress Extension — simulation code and data"
+version: "1.0.0"
+date-released: "2026-10-13"
+license: MIT
+type: software
+authors:
+  - family-names: "Joshi"
+    given-names: "Rohit"
+    affiliation: "Independent researcher, Stuttgart, Germany"
+    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"   # add before release
+keywords:
+  - vehicle submersion
+  - occupant egress
+  - flotation
+  - buoyancy control
+  - functional safety
+abstract: >-
+  Truth simulator, FREE controller, baselines, experiment scripts and raw
+  per-episode results for a simulation study of freeboard-regulated staged
+  flotation after vehicle water entry. All results are simulated.
