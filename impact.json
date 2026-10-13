@@ -1,0 +1,800 @@
+{
+ "delta_p": {
+  "ICE": {
+   "mid": 0.91,
+   "lo": 0.83,
+   "hi": 0.97,
+   "with_": 0.99,
+   "without": 0.08,
+   "med_with": 164.5499999999949,
+   "med_without": 10.799999999999974
+  },
+  "EV": {
+   "mid": 0.97,
+   "lo": 0.93,
+   "hi": 1.0,
+   "with_": 0.97,
+   "without": 0.0,
+   "med_with": 103.89999999999831,
+   "med_without": 3.849999999999998
+  }
+ },
+ "budget": {
+  "ICE": {
+   "vehicle": "ICE",
+   "gas_m3": 1.4,
+   "n2_mass_kg": 1.8,
+   "cylinder_litres": 7.5,
+   "bladder_area_m2": 12.3,
+   "packaging_litres": 22.0,
+   "mass": {
+    "low": {
+     "parts": {
+      "gas": 1.8,
+      "cylinders": 3.39,
+      "bladders": 3.7,
+      "housings": 4.0,
+      "valves_manifold": 1.5,
+      "electronics": 0.5
+     },
+     "total": 14.9,
+     "mass_pct": 0.99
+    },
+    "mid": {
+     "parts": {
+      "gas": 1.8,
+      "cylinders": 4.52,
+      "bladders": 5.55,
+      "housings": 6.0,
+      "valves_manifold": 2.5,
+      "electronics": 1.0
+     },
+     "total": 21.4,
+     "mass_pct": 1.42
+    },
+    "high": {
+     "parts": {
+      "gas": 1.8,
+      "cylinders": 5.65,
+      "bladders": 7.4,
+      "housings": 8.0,
+      "valves_manifold": 4.0,
+      "electronics": 1.5
+     },
+     "total": 28.3,
+     "mass_pct": 1.89
+    }
+   },
+   "Izz_kgm2": 3050,
+   "dIzz_pct_distributed": 1.8,
+   "dIzz_pct_central": 1.0,
+   "buoyancy_kN": 13.7,
+   "corner_load_kN": 3.4,
+   "ev_energy_pct": null
+  },
+  "EV": {
+   "vehicle": "EV",
+   "gas_m3": 1.8,
+   "n2_mass_kg": 2.32,
+   "cylinder_litres": 9.7,
+   "bladder_area_m2": 14.6,
+   "packaging_litres": 27.0,
+   "mass": {
+    "low": {
+     "parts": {
+      "gas": 2.32,
+      "cylinders": 4.36,
+      "bladders": 4.38,
+      "housings": 4.0,
+      "valves_manifold": 1.5,
+      "electronics": 0.5
+     },
+     "total": 17.0,
+     "mass_pct": 0.81
+    },
+    "mid": {
+     "parts": {
+      "gas": 2.32,
+      "cylinders": 5.81,
+      "bladders": 6.56,
+      "housings": 6.0,
+      "valves_manifold": 2.5,
+      "electronics": 1.0
+     },
+     "total": 24.2,
+     "mass_pct": 1.15
+    },
+    "high": {
+     "parts": {
+      "gas": 2.32,
+      "cylinders": 7.26,
+      "bladders": 8.75,
+      "housings": 8.0,
+      "valves_manifold": 4.0,
+      "electronics": 1.5
+     },
+     "total": 31.8,
+     "mass_pct": 1.52
+    }
+   },
+   "Izz_kgm2": 4465,
+   "dIzz_pct_distributed": 1.4,
+   "dIzz_pct_central": 0.8,
+   "buoyancy_kN": 17.7,
+   "corner_load_kN": 4.4,
+   "ev_energy_pct": [
+    0.34,
+    0.52,
+    0.69
+   ]
+  }
+ },
+ "budget_max": {
+  "ICE": {
+   "vehicle": "ICE",
+   "gas_m3": 1.8,
+   "n2_mass_kg": 2.32,
+   "cylinder_litres": 9.7,
+   "bladder_area_m2": 14.6,
+   "packaging_litres": 27.0,
+   "mass": {
+    "low": {
+     "parts": {
+      "gas": 2.32,
+      "cylinders": 4.36,
+      "bladders": 4.38,
+      "housings": 4.0,
+      "valves_manifold": 1.5,
+      "electronics": 0.5
+     },
+     "total": 17.0,
+     "mass_pct": 1.14
+    },
+    "mid": {
+     "parts": {
+      "gas": 2.32,
+      "cylinders": 5.81,
+      "bladders": 6.56,
+      "housings": 6.0,
+      "valves_manifold": 2.5,
+      "electronics": 1.0
+     },
+     "total": 24.2,
+     "mass_pct": 1.61
+    },
+    "high": {
+     "parts": {
+      "gas": 2.32,
+      "cylinders": 7.26,
+      "bladders": 8.75,
+      "housings": 8.0,
+      "valves_manifold": 4.0,
+      "electronics": 1.5
+     },
+     "total": 31.8,
+     "mass_pct": 2.12
+    }
+   },
+   "Izz_kgm2": 3050,
+   "dIzz_pct_distributed": 2.1,
+   "dIzz_pct_central": 1.1,
+   "buoyancy_kN": 17.7,
+   "corner_load_kN": 4.4,
+   "ev_energy_pct": null
+  },
+  "EV": {
+   "vehicle": "EV",
+   "gas_m3": 2.2,
+   "n2_mass_kg": 2.83,
+   "cylinder_litres": 11.8,
+   "bladder_area_m2": 16.7,
+   "packaging_litres": 32.0,
+   "mass": {
+    "low": {
+     "parts": {
+      "gas": 2.83,
+      "cylinders": 5.32,
+      "bladders": 5.0,
+      "housings": 4.0,
+      "valves_manifold": 1.5,
+      "electronics": 0.5
+     },
+     "total": 19.2,
+     "mass_pct": 0.91
+    },
+    "mid": {
+     "parts": {
+      "gas": 2.83,
+      "cylinders": 7.1,
+      "bladders": 7.5,
+      "housings": 6.0,
+      "valves_manifold": 2.5,
+      "electronics": 1.0
+     },
+     "total": 26.9,
+     "mass_pct": 1.28
+    },
+    "high": {
+     "parts": {
+      "gas": 2.83,
+      "cylinders": 8.87,
+      "bladders": 10.0,
+      "housings": 8.0,
+      "valves_manifold": 4.0,
+      "electronics": 1.5
+     },
+     "total": 35.2,
+     "mass_pct": 1.68
+    }
+   },
+   "Izz_kgm2": 4465,
+   "dIzz_pct_distributed": 1.6,
+   "dIzz_pct_central": 0.8,
+   "buoyancy_kN": 21.6,
+   "corner_load_kN": 5.4,
+   "ev_energy_pct": [
+    0.38,
+    0.58,
+    0.77
+   ]
+  }
+ },
+ "benefit": {
+  "chain_median": 0.17698182645369742,
+  "chain_p5": 0.10050760484902546,
+  "chain_p95": 0.29441235611625,
+  "annuity": 11.937935086776077,
+  "regions": {
+   "Netherlands": {
+    "risk_per_M": 5.38,
+    "lives_per_M_vehicles": 11.36,
+    "cpls_median": 63475666.367775634,
+    "cpls_p5": 25634070.13357315,
+    "cpls_p95": 137410649.7835292,
+    "breakeven_cost_usVSL": 161.29959834169347,
+    "breakeven_cost_euVSL": 53.72866902508522,
+    "src": "swov; cbs2025",
+    "note": "lower bound ('more than 50'); cars only"
+   },
+   "North America": {
+    "risk_per_M": 1.34,
+    "lives_per_M_vehicles": 2.84,
+    "cpls_median": 254243932.49458516,
+    "cpls_p5": 102674098.1156559,
+    "cpls_p95": 550381366.0684366,
+    "breakeven_cost_usVSL": 40.270772203429516,
+    "breakeven_cost_euVSL": 13.414137501564902,
+    "src": "mcdonald2013; fhwa2026",
+    "note": "US fleet only in denominator -> risk is an upper bound"
+   }
+  },
+  "risk_threshold_per_M": {
+   "US|300": 10.0,
+   "US|600": 20.0,
+   "US|1200": 40.0,
+   "EU|300": 30.0,
+   "EU|600": 60.0,
+   "EU|1200": 120.1
+  }
+ },
+ "inflation": {
+  "ICE|B0|-1.0": {
+   "n": 40,
+   "median": 10.249999999999975,
+   "p10": 4.5799999999999965,
+   "success": 0.025,
+   "success_ci": [
+    0.0,
+    0.075
+   ],
+   "median_ci": [
+    6.599999999999989,
+    13.449999999999964
+   ]
+  },
+  "ICE|B2|0.3": {
+   "n": 40,
+   "median": 128.09999999999695,
+   "p10": 70.99000000000018,
+   "success": 1.0,
+   "success_ci": [
+    1.0,
+    1.0
+   ],
+   "median_ci": [
+    102.1999999999984,
+    154.49999999999545
+   ]
+  },
+  "ICE|B2|1.0": {
+   "n": 40,
+   "median": 128.04999999999694,
+   "p10": 70.78000000000019,
+   "success": 1.0,
+   "success_ci": [
+    1.0,
+    1.0
+   ],
+   "median_ci": [
+    101.99999999999841,
+    154.3999999999955
+   ]
+  },
+  "ICE|B2|2.0": {
+   "n": 40,
+   "median": 127.79999999999696,
+   "p10": 70.39000000000021,
+   "success": 1.0,
+   "success_ci": [
+    1.0,
+    1.0
+   ],
+   "median_ci": [
+    101.79999999999842,
+    154.0499999999955
+   ]
+  },
+  "ICE|B2|4.0": {
+   "n": 40,
+   "median": 127.19999999999698,
+   "p10": 69.79000000000025,
+   "success": 0.975,
+   "success_ci": [
+    0.925,
+    1.0
+   ],
+   "median_ci": [
+    101.19999999999845,
+    153.29999999999552
+   ]
+  },
+  "ICE|B2|6.0": {
+   "n": 40,
+   "median": 126.49999999999702,
+   "p10": 69.19000000000028,
+   "success": 0.975,
+   "success_ci": [
+    0.925,
+    1.0
+   ],
+   "median_ci": [
+    100.69999999999848,
+    152.54999999999558
+   ]
+  },
+  "ICE|B3r|0.3": {
+   "n": 40,
+   "median": 173.74999999999434,
+   "p10": 109.14999999999802,
+   "success": 1.0,
+   "success_ci": [
+    1.0,
+    1.0
+   ],
+   "median_ci": [
+    149.79749999999572,
+    214.74999999999204
+   ]
+  },
+  "ICE|B3r|1.0": {
+   "n": 40,
+   "median": 173.64999999999435,
+   "p10": 109.03999999999802,
+   "success": 1.0,
+   "success_ci": [
+    1.0,
+    1.0
+   ],
+   "median_ci": [
+    149.69749999999573,
+    214.64999999999202
+   ]
+  },
+  "ICE|B3r|2.0": {
+   "n": 40,
+   "median": 173.39999999999435,
+   "p10": 108.72999999999804,
+   "success": 1.0,
+   "success_ci": [
+    1.0,
+    1.0
+   ],
+   "median_ci": [
+    149.49624999999574,
+    214.44999999999203
+   ]
+  },
+  "ICE|B3r|4.0": {
+   "n": 40,
+   "median": 172.79999999999438,
+   "p10": 108.29999999999806,
+   "success": 1.0,
+   "success_ci": [
+    1.0,
+    1.0
+   ],
+   "median_ci": [
+    148.79874999999578,
+    213.9499999999921
+   ]
+  },
+  "ICE|B3r|6.0": {
+   "n": 40,
+   "median": 172.04999999999444,
+   "p10": 107.7899999999981,
+   "success": 1.0,
+   "success_ci": [
+    1.0,
+    1.0
+   ],
+   "median_ci": [
+    148.19374999999582,
+    213.34999999999212
+   ]
+  },
+  "ICE|FREE|0.3": {
+   "n": 40,
+   "median": 151.8499999999956,
+   "p10": 83.24999999999947,
+   "success": 1.0,
+   "success_ci": [
+    1.0,
+    1.0
+   ],
+   "median_ci": [
+    126.499999999997,
+    192.69999999999328
+   ]
+  },
+  "ICE|FREE|1.0": {
+   "n": 40,
+   "median": 151.6999999999956,
+   "p10": 83.05999999999949,
+   "success": 1.0,
+   "success_ci": [
+    1.0,
+    1.0
+   ],
+   "median_ci": [
+    126.19999999999702,
+    192.54999999999328
+   ]
+  },
+  "ICE|FREE|2.0": {
+   "n": 40,
+   "median": 152.59999999999553,
+   "p10": 82.7699999999995,
+   "success": 1.0,
+   "success_ci": [
+    1.0,
+    1.0
+   ],
+   "median_ci": [
+    125.79999999999704,
+    192.4999999999933
+   ]
+  },
+  "ICE|FREE|4.0": {
+   "n": 40,
+   "median": 151.8499999999956,
+   "p10": 76.93999999999984,
+   "success": 1.0,
+   "success_ci": [
+    1.0,
+    1.0
+   ],
+   "median_ci": [
+    125.09999999999708,
+    193.9499999999932
+   ]
+  },
+  "ICE|FREE|6.0": {
+   "n": 40,
+   "median": 139.69999999999627,
+   "p10": 86.89999999999928,
+   "success": 1.0,
+   "success_ci": [
+    1.0,
+    1.0
+   ],
+   "median_ci": [
+    116.64999999999758,
+    190.5999999999934
+   ]
+  },
+  "EV|B0|-1.0": {
+   "n": 40,
+   "median": 4.799999999999994,
+   "p10": 2.5700000000000025,
+   "success": 0.0,
+   "success_ci": [
+    0.0,
+    0.0
+   ],
+   "median_ci": [
+    3.799999999999998,
+    5.94999999999999
+   ]
+  },
+  "EV|B2|0.3": {
+   "n": 40,
+   "median": 104.84999999999826,
+   "p10": 71.96000000000014,
+   "success": 0.975,
+   "success_ci": [
+    0.925,
+    1.0
+   ],
+   "median_ci": [
+    92.34999999999894,
+    115.64999999999763
+   ]
+  },
+  "EV|B2|1.0": {
+   "n": 40,
+   "median": 104.54999999999828,
+   "p10": 71.66000000000015,
+   "success": 0.975,
+   "success_ci": [
+    0.925,
+    1.0
+   ],
+   "median_ci": [
+    92.14999999999895,
+    115.34999999999765
+   ]
+  },
+  "EV|B2|2.0": {
+   "n": 40,
+   "median": 104.1499999999983,
+   "p10": 71.35000000000016,
+   "success": 0.975,
+   "success_ci": [
+    0.925,
+    1.0
+   ],
+   "median_ci": [
+    91.79999999999899,
+    114.99999999999767
+   ]
+  },
+  "EV|B2|4.0": {
+   "n": 40,
+   "median": 103.34999999999835,
+   "p10": 70.6400000000002,
+   "success": 0.975,
+   "success_ci": [
+    0.925,
+    1.0
+   ],
+   "median_ci": [
+    91.14999999999901,
+    114.24999999999771
+   ]
+  },
+  "EV|B2|6.0": {
+   "n": 40,
+   "median": 102.64999999999839,
+   "p10": 69.84000000000024,
+   "success": 0.95,
+   "success_ci": [
+    0.875,
+    1.0
+   ],
+   "median_ci": [
+    90.49999999999906,
+    113.54999999999775
+   ]
+  },
+  "EV|B3r|0.3": {
+   "n": 40,
+   "median": 124.24999999999714,
+   "p10": 84.47999999999942,
+   "success": 0.975,
+   "success_ci": [
+    0.925,
+    1.0
+   ],
+   "median_ci": [
+    108.34999999999806,
+    132.2999999999967
+   ]
+  },
+  "EV|B3r|1.0": {
+   "n": 40,
+   "median": 124.04999999999715,
+   "p10": 84.26999999999943,
+   "success": 0.975,
+   "success_ci": [
+    0.925,
+    1.0
+   ],
+   "median_ci": [
+    108.04999999999808,
+    132.04999999999671
+   ]
+  },
+  "EV|B3r|2.0": {
+   "n": 40,
+   "median": 123.69999999999717,
+   "p10": 84.04999999999944,
+   "success": 0.975,
+   "success_ci": [
+    0.925,
+    1.0
+   ],
+   "median_ci": [
+    107.5999999999981,
+    131.69999999999672
+   ]
+  },
+  "EV|B3r|4.0": {
+   "n": 40,
+   "median": 123.04999999999721,
+   "p10": 83.32999999999949,
+   "success": 0.975,
+   "success_ci": [
+    0.925,
+    1.0
+   ],
+   "median_ci": [
+    106.84999999999815,
+    130.89999999999677
+   ]
+  },
+  "EV|B3r|6.0": {
+   "n": 40,
+   "median": 122.39999999999725,
+   "p10": 82.43999999999953,
+   "success": 0.975,
+   "success_ci": [
+    0.925,
+    1.0
+   ],
+   "median_ci": [
+    106.14999999999819,
+    130.1499999999968
+   ]
+  },
+  "EV|FREE|0.3": {
+   "n": 40,
+   "median": 123.94999999999717,
+   "p10": 88.1999999999992,
+   "success": 0.975,
+   "success_ci": [
+    0.925,
+    1.0
+   ],
+   "median_ci": [
+    118.2999999999975,
+    136.69999999999646
+   ]
+  },
+  "EV|FREE|1.0": {
+   "n": 40,
+   "median": 123.64999999999719,
+   "p10": 87.98999999999921,
+   "success": 0.975,
+   "success_ci": [
+    0.925,
+    1.0
+   ],
+   "median_ci": [
+    115.89874999999762,
+    135.09999999999656
+   ]
+  },
+  "EV|FREE|2.0": {
+   "n": 40,
+   "median": 122.09999999999727,
+   "p10": 88.03999999999921,
+   "success": 0.975,
+   "success_ci": [
+    0.925,
+    1.0
+   ],
+   "median_ci": [
+    113.09999999999778,
+    134.1499999999966
+   ]
+  },
+  "EV|FREE|4.0": {
+   "n": 40,
+   "median": 119.94999999999739,
+   "p10": 87.9199999999992,
+   "success": 0.975,
+   "success_ci": [
+    0.925,
+    1.0
+   ],
+   "median_ci": [
+    109.099999999998,
+    132.4499999999967
+   ]
+  },
+  "EV|FREE|6.0": {
+   "n": 40,
+   "median": 122.09999999999727,
+   "p10": 87.88999999999922,
+   "success": 0.975,
+   "success_ci": [
+    0.925,
+    1.0
+   ],
+   "median_ci": [
+    109.14249999999802,
+    131.79999999999674
+   ]
+  },
+  "levels": [
+   0.3,
+   1.0,
+   2.0,
+   4.0,
+   6.0
+  ],
+  "mid_gas": {
+   "ICE": 1.4,
+   "EV": 1.8
+  },
+  "n": 40
+ },
+ "assumptions": {
+  "P_STORE_bar": 300.0,
+  "Z": 1.1,
+  "eta_blowdown": 0.75,
+  "rho_cyl": [
+   0.45,
+   0.6,
+   0.75
+  ],
+  "fabric": [
+   0.3,
+   0.45,
+   0.6
+  ],
+  "housing": [
+   1.0,
+   1.5,
+   2.0
+  ],
+  "valves": [
+   1.5,
+   2.5,
+   4.0
+  ],
+  "elec": [
+   0.5,
+   1.0,
+   1.5
+  ],
+  "cost": [
+   300.0,
+   600.0,
+   1200.0
+  ],
+  "elasticity": [
+   0.3,
+   0.45,
+   0.6
+  ],
+  "life_years": 15,
+  "discount": 0.03,
+  "annuity": 11.94,
+  "VSL_US": 14200000.0,
+  "VSL_EU_EUR": 4300000.0,
+  "USD_PER_EUR": 1.1,
+  "still": [
+   0.3,
+   0.7
+  ],
+  "uninjured": [
+   0.45,
+   0.7
+  ],
+  "egress": [
+   0.5,
+   0.9
+  ]
+ }
+}

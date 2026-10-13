@@ -1,0 +1,1802 @@
+[
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 1,
+  "strat": "B0",
+  "success": 0.125,
+  "median": 12.899999999999967,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 1,
+  "strat": "B2",
+  "success": 1.0,
+  "median": 156.54999999999535,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 1,
+  "strat": "B3",
+  "success": 1.0,
+  "median": 300.0,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 1,
+  "strat": "B3r",
+  "success": 1.0,
+  "median": 300.0,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 1,
+  "strat": "FREE",
+  "success": 1.0,
+  "median": 300.0,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 3,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 9.44999999999998,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 3,
+  "strat": "B2",
+  "success": 0.975,
+  "median": 112.19999999999784,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 3,
+  "strat": "B3",
+  "success": 0.975,
+  "median": 147.29999999999586,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 3,
+  "strat": "B3r",
+  "success": 0.975,
+  "median": 156.64999999999532,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 3,
+  "strat": "FREE",
+  "success": 0.975,
+  "median": 134.4999999999966,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 5,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 6.999999999999988,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 5,
+  "strat": "B2",
+  "success": 0.875,
+  "median": 87.29999999999927,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 5,
+  "strat": "B3",
+  "success": 0.975,
+  "median": 104.89999999999824,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 5,
+  "strat": "B3r",
+  "success": 0.975,
+  "median": 122.49999999999726,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 5,
+  "strat": "FREE",
+  "success": 0.925,
+  "median": 93.79999999999889,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 1,
+  "strat": "B0",
+  "success": 0.125,
+  "median": 12.849999999999966,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 1,
+  "strat": "B2",
+  "success": 1.0,
+  "median": 156.39999999999534,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 1,
+  "strat": "B3",
+  "success": 1.0,
+  "median": 300.0,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 1,
+  "strat": "B3r",
+  "success": 1.0,
+  "median": 300.0,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 1,
+  "strat": "FREE",
+  "success": 1.0,
+  "median": 300.0,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 3,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 9.29999999999998,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 3,
+  "strat": "B2",
+  "success": 1.0,
+  "median": 112.24999999999783,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 3,
+  "strat": "B3",
+  "success": 1.0,
+  "median": 147.29999999999586,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 3,
+  "strat": "B3r",
+  "success": 1.0,
+  "median": 156.49999999999534,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 3,
+  "strat": "FREE",
+  "success": 1.0,
+  "median": 134.44999999999658,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 5,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 6.999999999999988,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 5,
+  "strat": "B2",
+  "success": 0.9,
+  "median": 90.54999999999906,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 5,
+  "strat": "B3",
+  "success": 1.0,
+  "median": 111.14999999999789,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 5,
+  "strat": "B3r",
+  "success": 1.0,
+  "median": 124.14999999999715,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 5,
+  "strat": "FREE",
+  "success": 0.95,
+  "median": 98.44999999999861,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 1,
+  "strat": "B0",
+  "success": 0.125,
+  "median": 12.699999999999964,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 1,
+  "strat": "B2",
+  "success": 1.0,
+  "median": 156.3499999999953,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 1,
+  "strat": "B3",
+  "success": 1.0,
+  "median": 300.0,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 1,
+  "strat": "B3r",
+  "success": 1.0,
+  "median": 300.0,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 1,
+  "strat": "FREE",
+  "success": 1.0,
+  "median": 300.0,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 3,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 9.399999999999977,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 3,
+  "strat": "B2",
+  "success": 1.0,
+  "median": 112.14999999999782,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 3,
+  "strat": "B3",
+  "success": 1.0,
+  "median": 147.24999999999585,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 3,
+  "strat": "B3r",
+  "success": 1.0,
+  "median": 156.4999999999953,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 3,
+  "strat": "FREE",
+  "success": 1.0,
+  "median": 134.34999999999656,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 5,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 6.849999999999987,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 5,
+  "strat": "B2",
+  "success": 0.9,
+  "median": 90.54999999999905,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 5,
+  "strat": "B3",
+  "success": 1.0,
+  "median": 111.14999999999787,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 5,
+  "strat": "B3r",
+  "success": 1.0,
+  "median": 124.09999999999714,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 5,
+  "strat": "FREE",
+  "success": 0.95,
+  "median": 98.4499999999986,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 1,
+  "strat": "B0",
+  "success": 0.075,
+  "median": 12.899999999999967,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 1,
+  "strat": "B2",
+  "success": 1.0,
+  "median": 156.54999999999535,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 1,
+  "strat": "B3",
+  "success": 1.0,
+  "median": 300.0,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 1,
+  "strat": "B3r",
+  "success": 1.0,
+  "median": 300.0,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 1,
+  "strat": "FREE",
+  "success": 1.0,
+  "median": 300.0,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 3,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 9.44999999999998,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 3,
+  "strat": "B2",
+  "success": 0.975,
+  "median": 112.19999999999784,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 3,
+  "strat": "B3",
+  "success": 0.975,
+  "median": 147.29999999999586,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 3,
+  "strat": "B3r",
+  "success": 0.975,
+  "median": 156.64999999999532,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 3,
+  "strat": "FREE",
+  "success": 0.975,
+  "median": 134.4999999999966,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 5,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 6.999999999999988,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 5,
+  "strat": "B2",
+  "success": 0.525,
+  "median": 87.29999999999927,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 5,
+  "strat": "B3",
+  "success": 0.775,
+  "median": 104.89999999999824,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 5,
+  "strat": "B3r",
+  "success": 0.975,
+  "median": 122.49999999999726,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 5,
+  "strat": "FREE",
+  "success": 0.75,
+  "median": 93.79999999999889,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 1,
+  "strat": "B0",
+  "success": 0.075,
+  "median": 12.849999999999966,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 1,
+  "strat": "B2",
+  "success": 1.0,
+  "median": 156.39999999999534,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 1,
+  "strat": "B3",
+  "success": 1.0,
+  "median": 300.0,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 1,
+  "strat": "B3r",
+  "success": 1.0,
+  "median": 300.0,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 1,
+  "strat": "FREE",
+  "success": 1.0,
+  "median": 300.0,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 3,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 9.29999999999998,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 3,
+  "strat": "B2",
+  "success": 1.0,
+  "median": 112.24999999999783,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 3,
+  "strat": "B3",
+  "success": 1.0,
+  "median": 147.29999999999586,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 3,
+  "strat": "B3r",
+  "success": 1.0,
+  "median": 156.49999999999534,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 3,
+  "strat": "FREE",
+  "success": 1.0,
+  "median": 134.44999999999658,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 5,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 6.999999999999988,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 5,
+  "strat": "B2",
+  "success": 0.55,
+  "median": 90.54999999999906,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 5,
+  "strat": "B3",
+  "success": 0.8,
+  "median": 111.14999999999789,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 5,
+  "strat": "B3r",
+  "success": 1.0,
+  "median": 124.14999999999715,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 5,
+  "strat": "FREE",
+  "success": 0.725,
+  "median": 98.44999999999861,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 1,
+  "strat": "B0",
+  "success": 0.075,
+  "median": 12.699999999999964,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 1,
+  "strat": "B2",
+  "success": 1.0,
+  "median": 156.3499999999953,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 1,
+  "strat": "B3",
+  "success": 1.0,
+  "median": 300.0,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 1,
+  "strat": "B3r",
+  "success": 1.0,
+  "median": 300.0,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 1,
+  "strat": "FREE",
+  "success": 1.0,
+  "median": 300.0,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 3,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 9.399999999999977,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 3,
+  "strat": "B2",
+  "success": 1.0,
+  "median": 112.14999999999782,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 3,
+  "strat": "B3",
+  "success": 1.0,
+  "median": 147.24999999999585,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 3,
+  "strat": "B3r",
+  "success": 1.0,
+  "median": 156.4999999999953,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 3,
+  "strat": "FREE",
+  "success": 1.0,
+  "median": 134.34999999999656,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 5,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 6.849999999999987,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 5,
+  "strat": "B2",
+  "success": 0.55,
+  "median": 90.54999999999905,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 5,
+  "strat": "B3",
+  "success": 0.8,
+  "median": 111.14999999999787,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 5,
+  "strat": "B3r",
+  "success": 1.0,
+  "median": 124.09999999999714,
+  "n": 40
+ },
+ {
+  "vn": "ICE",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 5,
+  "strat": "FREE",
+  "success": 0.725,
+  "median": 98.4499999999986,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 1,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 5.5999999999999925,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 1,
+  "strat": "B2",
+  "success": 0.95,
+  "median": 113.49999999999778,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 1,
+  "strat": "B3",
+  "success": 0.95,
+  "median": 143.49999999999608,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 1,
+  "strat": "B3r",
+  "success": 0.95,
+  "median": 122.69999999999725,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 1,
+  "strat": "FREE",
+  "success": 0.95,
+  "median": 131.1499999999968,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 3,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 4.1999999999999975,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 3,
+  "strat": "B2",
+  "success": 0.825,
+  "median": 87.14999999999927,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 3,
+  "strat": "B3",
+  "success": 0.85,
+  "median": 104.0999999999983,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 3,
+  "strat": "B3r",
+  "success": 0.85,
+  "median": 101.34999999999846,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 3,
+  "strat": "FREE",
+  "success": 0.85,
+  "median": 99.19999999999858,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 5,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 3.350000000000001,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 5,
+  "strat": "B2",
+  "success": 0.55,
+  "median": 71.95000000000013,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 5,
+  "strat": "B3",
+  "success": 0.775,
+  "median": 85.79999999999934,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 5,
+  "strat": "B3r",
+  "success": 0.775,
+  "median": 92.74999999999895,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "flat (0-10 deg)",
+  "occ": 5,
+  "strat": "FREE",
+  "success": 0.8,
+  "median": 89.44999999999914,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 1,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 5.449999999999992,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 1,
+  "strat": "B2",
+  "success": 1.0,
+  "median": 113.29999999999777,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 1,
+  "strat": "B3",
+  "success": 1.0,
+  "median": 143.44999999999607,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 1,
+  "strat": "B3r",
+  "success": 1.0,
+  "median": 122.59999999999724,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 1,
+  "strat": "FREE",
+  "success": 1.0,
+  "median": 131.04999999999677,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 3,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 4.349999999999996,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 3,
+  "strat": "B2",
+  "success": 0.975,
+  "median": 92.69999999999894,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 3,
+  "strat": "B3",
+  "success": 1.0,
+  "median": 120.0499999999974,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 3,
+  "strat": "B3r",
+  "success": 1.0,
+  "median": 108.44999999999806,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 3,
+  "strat": "FREE",
+  "success": 1.0,
+  "median": 106.49999999999815,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 5,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 3.4,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 5,
+  "strat": "B2",
+  "success": 0.65,
+  "median": 77.79999999999977,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 5,
+  "strat": "B3",
+  "success": 0.925,
+  "median": 96.59999999999872,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 5,
+  "strat": "B3r",
+  "success": 0.95,
+  "median": 98.14999999999863,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 5,
+  "strat": "FREE",
+  "success": 0.975,
+  "median": 95.74999999999878,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 1,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 5.3999999999999915,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 1,
+  "strat": "B2",
+  "success": 1.0,
+  "median": 113.24999999999775,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 1,
+  "strat": "B3",
+  "success": 1.0,
+  "median": 143.2999999999961,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 1,
+  "strat": "B3r",
+  "success": 1.0,
+  "median": 122.64999999999722,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 1,
+  "strat": "FREE",
+  "success": 1.0,
+  "median": 130.89999999999674,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 3,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 4.199999999999996,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 3,
+  "strat": "B2",
+  "success": 0.975,
+  "median": 92.64999999999893,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 3,
+  "strat": "B3",
+  "success": 1.0,
+  "median": 120.04999999999737,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 3,
+  "strat": "B3r",
+  "success": 1.0,
+  "median": 108.44999999999803,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 3,
+  "strat": "FREE",
+  "success": 1.0,
+  "median": 105.39999999999822,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 5,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 3.05,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 5,
+  "strat": "B2",
+  "success": 0.65,
+  "median": 77.64999999999978,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 5,
+  "strat": "B3",
+  "success": 0.925,
+  "median": 96.5999999999987,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 5,
+  "strat": "B3r",
+  "success": 0.925,
+  "median": 98.04999999999862,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "day / warm water",
+  "entry": "steep (25-40 deg)",
+  "occ": 5,
+  "strat": "FREE",
+  "success": 0.95,
+  "median": 95.84999999999874,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 1,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 5.5999999999999925,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 1,
+  "strat": "B2",
+  "success": 0.95,
+  "median": 113.49999999999778,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 1,
+  "strat": "B3",
+  "success": 0.95,
+  "median": 143.49999999999608,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 1,
+  "strat": "B3r",
+  "success": 0.95,
+  "median": 122.69999999999725,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 1,
+  "strat": "FREE",
+  "success": 0.95,
+  "median": 131.1499999999968,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 3,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 4.1999999999999975,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 3,
+  "strat": "B2",
+  "success": 0.825,
+  "median": 87.14999999999927,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 3,
+  "strat": "B3",
+  "success": 0.825,
+  "median": 104.0999999999983,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 3,
+  "strat": "B3r",
+  "success": 0.85,
+  "median": 101.34999999999846,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 3,
+  "strat": "FREE",
+  "success": 0.85,
+  "median": 99.19999999999858,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 5,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 3.350000000000001,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 5,
+  "strat": "B2",
+  "success": 0.3,
+  "median": 71.95000000000013,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 5,
+  "strat": "B3",
+  "success": 0.55,
+  "median": 85.79999999999934,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 5,
+  "strat": "B3r",
+  "success": 0.6,
+  "median": 92.74999999999895,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "flat (0-10 deg)",
+  "occ": 5,
+  "strat": "FREE",
+  "success": 0.6,
+  "median": 89.44999999999914,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 1,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 5.449999999999992,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 1,
+  "strat": "B2",
+  "success": 1.0,
+  "median": 113.29999999999777,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 1,
+  "strat": "B3",
+  "success": 1.0,
+  "median": 143.44999999999607,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 1,
+  "strat": "B3r",
+  "success": 1.0,
+  "median": 122.59999999999724,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 1,
+  "strat": "FREE",
+  "success": 1.0,
+  "median": 131.04999999999677,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 3,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 4.349999999999996,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 3,
+  "strat": "B2",
+  "success": 0.95,
+  "median": 92.69999999999894,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 3,
+  "strat": "B3",
+  "success": 0.975,
+  "median": 120.0499999999974,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 3,
+  "strat": "B3r",
+  "success": 1.0,
+  "median": 108.44999999999806,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 3,
+  "strat": "FREE",
+  "success": 1.0,
+  "median": 106.49999999999815,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 5,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 3.4,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 5,
+  "strat": "B2",
+  "success": 0.35,
+  "median": 77.79999999999977,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 5,
+  "strat": "B3",
+  "success": 0.65,
+  "median": 96.59999999999872,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 5,
+  "strat": "B3r",
+  "success": 0.725,
+  "median": 98.14999999999863,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "moderate (10-25 deg)",
+  "occ": 5,
+  "strat": "FREE",
+  "success": 0.7,
+  "median": 95.74999999999878,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 1,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 5.3999999999999915,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 1,
+  "strat": "B2",
+  "success": 1.0,
+  "median": 113.24999999999775,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 1,
+  "strat": "B3",
+  "success": 1.0,
+  "median": 143.2999999999961,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 1,
+  "strat": "B3r",
+  "success": 1.0,
+  "median": 122.64999999999722,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 1,
+  "strat": "FREE",
+  "success": 1.0,
+  "median": 130.89999999999674,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 3,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 4.199999999999996,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 3,
+  "strat": "B2",
+  "success": 0.95,
+  "median": 92.64999999999893,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 3,
+  "strat": "B3",
+  "success": 0.975,
+  "median": 120.04999999999737,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 3,
+  "strat": "B3r",
+  "success": 1.0,
+  "median": 108.44999999999803,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 3,
+  "strat": "FREE",
+  "success": 1.0,
+  "median": 105.39999999999822,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 5,
+  "strat": "B0",
+  "success": 0.0,
+  "median": 3.05,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 5,
+  "strat": "B2",
+  "success": 0.35,
+  "median": 77.64999999999978,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 5,
+  "strat": "B3",
+  "success": 0.65,
+  "median": 96.5999999999987,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 5,
+  "strat": "B3r",
+  "success": 0.725,
+  "median": 98.04999999999862,
+  "n": 40
+ },
+ {
+  "vn": "EV",
+  "cond": "night / cold water",
+  "entry": "steep (25-40 deg)",
+  "occ": 5,
+  "strat": "FREE",
+  "success": 0.7,
+  "median": 95.84999999999874,
+  "n": 40
+ }
+]

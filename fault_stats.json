@@ -1,0 +1,912 @@
+[
+ {
+  "vn": "EV",
+  "factor": "dead_bladder",
+  "level": -1,
+  "strat": "B3",
+  "median": 130.49999999999682,
+  "p10": 94.76999999999883,
+  "success": 0.975,
+  "success_ci": [
+   0.925,
+   1.0
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "dead_bladder",
+  "level": -1,
+  "strat": "B3r",
+  "median": 124.24999999999714,
+  "p10": 84.56999999999941,
+  "success": 0.975,
+  "success_ci": [
+   0.925,
+   1.0
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "dead_bladder",
+  "level": -1,
+  "strat": "FREE",
+  "median": 123.94999999999717,
+  "p10": 88.2899999999992,
+  "success": 0.975,
+  "success_ci": [
+   0.925,
+   1.0
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "dead_bladder",
+  "level": -1,
+  "strat": "FREEr",
+  "median": 120.69999999999735,
+  "p10": 84.12999999999943,
+  "success": 0.975,
+  "success_ci": [
+   0.925,
+   1.0
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "dead_bladder",
+  "level": -1,
+  "strat": "FREE-B3r",
+  "median": 3.6999999999997897,
+  "diff_ci": [
+   -2.9499999999998323,
+   7.4499999999995765
+  ],
+  "p": 0.1299914249532594,
+  "p_holm": 0.3006102796472192
+ },
+ {
+  "vn": "EV",
+  "factor": "dead_bladder",
+  "level": 0,
+  "strat": "B3",
+  "median": 9.849999999999977,
+  "p10": 4.059999999999998,
+  "success": 0.0,
+  "success_ci": [
+   0.0,
+   0.0
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "dead_bladder",
+  "level": 0,
+  "strat": "B3r",
+  "median": 8.299999999999983,
+  "p10": 3.1000000000000014,
+  "success": 0.0,
+  "success_ci": [
+   0.0,
+   0.0
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "dead_bladder",
+  "level": 0,
+  "strat": "FREE",
+  "median": 8.699999999999982,
+  "p10": 3.38,
+  "success": 0.0,
+  "success_ci": [
+   0.0,
+   0.0
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "dead_bladder",
+  "level": 0,
+  "strat": "FREEr",
+  "median": 7.399999999999984,
+  "p10": 2.8800000000000012,
+  "success": 0.0,
+  "success_ci": [
+   0.0,
+   0.0
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "dead_bladder",
+  "level": 0,
+  "strat": "FREE-B3r",
+  "median": 0.09999999999999964,
+  "diff_ci": [
+   0.09999999999999964,
+   0.1999999999999993
+  ],
+  "p": 0.0751525699118048,
+  "p_holm": 0.3006102796472192
+ },
+ {
+  "vn": "EV",
+  "factor": "dead_bladder",
+  "level": 1,
+  "strat": "B3",
+  "median": 9.499999999999979,
+  "p10": 4.7499999999999964,
+  "success": 0.05,
+  "success_ci": [
+   0.0,
+   0.125
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "dead_bladder",
+  "level": 1,
+  "strat": "B3r",
+  "median": 7.749999999999984,
+  "p10": 4.0699999999999985,
+  "success": 0.025,
+  "success_ci": [
+   0.0,
+   0.075
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "dead_bladder",
+  "level": 1,
+  "strat": "FREE",
+  "median": 7.899999999999984,
+  "p10": 4.179999999999998,
+  "success": 0.025,
+  "success_ci": [
+   0.0,
+   0.075
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "dead_bladder",
+  "level": 1,
+  "strat": "FREEr",
+  "median": 6.29999999999999,
+  "p10": 3.4200000000000004,
+  "success": 0.0,
+  "success_ci": [
+   0.0,
+   0.0
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "dead_bladder",
+  "level": 1,
+  "strat": "FREE-B3r",
+  "median": 0.09999999999999987,
+  "diff_ci": [
+   0.09999999999999964,
+   0.1999999999999993
+  ],
+  "p": 0.058264695546202235,
+  "p_holm": 0.2913234777310112
+ },
+ {
+  "vn": "EV",
+  "factor": "dead_bladder",
+  "level": 2,
+  "strat": "B3",
+  "median": 60.600000000000605,
+  "p10": 43.55000000000037,
+  "success": 0.8,
+  "success_ci": [
+   0.675,
+   0.925
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "dead_bladder",
+  "level": 2,
+  "strat": "B3r",
+  "median": 71.05000000000018,
+  "p10": 52.7900000000005,
+  "success": 0.9,
+  "success_ci": [
+   0.8,
+   0.975
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "dead_bladder",
+  "level": 2,
+  "strat": "FREE",
+  "median": 72.60000000000008,
+  "p10": 46.3000000000004,
+  "success": 0.9,
+  "success_ci": [
+   0.8,
+   0.975
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "dead_bladder",
+  "level": 2,
+  "strat": "FREEr",
+  "median": 68.25000000000031,
+  "p10": 48.95000000000044,
+  "success": 0.85,
+  "success_ci": [
+   0.725,
+   0.95
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "dead_bladder",
+  "level": 2,
+  "strat": "FREE-B3r",
+  "median": 1.2500000000000178,
+  "diff_ci": [
+   0.0,
+   3.8537499999998492
+  ],
+  "p": 0.08973664270476972,
+  "p_holm": 0.3006102796472192
+ },
+ {
+  "vn": "EV",
+  "factor": "dead_bladder",
+  "level": 3,
+  "strat": "B3",
+  "median": 60.4000000000006,
+  "p10": 45.44000000000039,
+  "success": 0.825,
+  "success_ci": [
+   0.7,
+   0.925
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "dead_bladder",
+  "level": 3,
+  "strat": "B3r",
+  "median": 70.85000000000016,
+  "p10": 50.27000000000046,
+  "success": 0.9,
+  "success_ci": [
+   0.8,
+   0.975
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "dead_bladder",
+  "level": 3,
+  "strat": "FREE",
+  "median": 74.04999999999998,
+  "p10": 49.81000000000045,
+  "success": 0.9,
+  "success_ci": [
+   0.8,
+   0.975
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "dead_bladder",
+  "level": 3,
+  "strat": "FREEr",
+  "median": 69.10000000000028,
+  "p10": 45.37000000000039,
+  "success": 0.875,
+  "success_ci": [
+   0.775,
+   0.975
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "dead_bladder",
+  "level": 3,
+  "strat": "FREE-B3r",
+  "median": 3.449999999999804,
+  "diff_ci": [
+   0.799999999999983,
+   7.299999999999585
+  ],
+  "p": 0.0015729113923668519,
+  "p_holm": 0.014156202531301667
+ },
+ {
+  "vn": "EV",
+  "factor": "leak_mult",
+  "level": 2.0,
+  "strat": "B3",
+  "median": 84.89999999999938,
+  "p10": 51.86000000000048,
+  "success": 0.9,
+  "success_ci": [
+   0.8,
+   0.975
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "leak_mult",
+  "level": 2.0,
+  "strat": "B3r",
+  "median": 80.54999999999963,
+  "p10": 55.20000000000053,
+  "success": 0.95,
+  "success_ci": [
+   0.875,
+   1.0
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "leak_mult",
+  "level": 2.0,
+  "strat": "FREE",
+  "median": 79.29999999999971,
+  "p10": 53.77000000000051,
+  "success": 0.95,
+  "success_ci": [
+   0.875,
+   1.0
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "leak_mult",
+  "level": 2.0,
+  "strat": "FREEr",
+  "median": 77.54999999999981,
+  "p10": 53.250000000000504,
+  "success": 0.925,
+  "success_ci": [
+   0.825,
+   1.0
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "leak_mult",
+  "level": 2.0,
+  "strat": "FREE-B3r",
+  "median": -2.149999999999956,
+  "diff_ci": [
+   -3.199999999999818,
+   0.7499999999999574
+  ],
+  "p": 0.3425924472530918,
+  "p_holm": 0.3425924472530918
+ },
+ {
+  "vn": "EV",
+  "factor": "leak_mult",
+  "level": 3.0,
+  "strat": "B3",
+  "median": 59.450000000000585,
+  "p10": 33.33000000000022,
+  "success": 0.725,
+  "success_ci": [
+   0.575,
+   0.85
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "leak_mult",
+  "level": 3.0,
+  "strat": "B3r",
+  "median": 63.100000000000605,
+  "p10": 44.88000000000038,
+  "success": 0.85,
+  "success_ci": [
+   0.725,
+   0.95
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "leak_mult",
+  "level": 3.0,
+  "strat": "FREE",
+  "median": 60.80000000000061,
+  "p10": 40.11000000000031,
+  "success": 0.8,
+  "success_ci": [
+   0.675,
+   0.925
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "leak_mult",
+  "level": 3.0,
+  "strat": "FREEr",
+  "median": 60.1500000000006,
+  "p10": 41.33000000000033,
+  "success": 0.7,
+  "success_ci": [
+   0.55,
+   0.85
+  ]
+ },
+ {
+  "vn": "EV",
+  "factor": "leak_mult",
+  "level": 3.0,
+  "strat": "FREE-B3r",
+  "median": -2.6499999999999417,
+  "diff_ci": [
+   -3.3999999999998067,
+   -1.6500000000000234
+  ],
+  "p": 0.0026345078181086484,
+  "p_holm": 0.021076062544869188
+ },
+ {
+  "vn": "ICE",
+  "factor": "dead_bladder",
+  "level": -1,
+  "strat": "B3",
+  "median": 163.14999999999495,
+  "p10": 93.00999999999893,
+  "success": 1.0,
+  "success_ci": [
+   1.0,
+   1.0
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "dead_bladder",
+  "level": -1,
+  "strat": "B3r",
+  "median": 173.74999999999434,
+  "p10": 109.14999999999802,
+  "success": 1.0,
+  "success_ci": [
+   1.0,
+   1.0
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "dead_bladder",
+  "level": -1,
+  "strat": "FREE",
+  "median": 151.8499999999956,
+  "p10": 83.33999999999948,
+  "success": 1.0,
+  "success_ci": [
+   1.0,
+   1.0
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "dead_bladder",
+  "level": -1,
+  "strat": "FREEr",
+  "median": 159.94999999999516,
+  "p10": 98.74999999999861,
+  "success": 1.0,
+  "success_ci": [
+   1.0,
+   1.0
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "dead_bladder",
+  "level": -1,
+  "strat": "FREE-B3r",
+  "median": -20.699999999998823,
+  "diff_ci": [
+   -34.74999999999804,
+   -4.74999999999973
+  ],
+  "p": 0.0001603996173854539,
+  "p_holm": 0.0016039961738545392
+ },
+ {
+  "vn": "ICE",
+  "factor": "dead_bladder",
+  "level": 0,
+  "strat": "B3",
+  "median": 12.14999999999997,
+  "p10": 5.569999999999993,
+  "success": 0.075,
+  "success_ci": [
+   0.0,
+   0.175
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "dead_bladder",
+  "level": 0,
+  "strat": "B3r",
+  "median": 11.549999999999972,
+  "p10": 5.079999999999995,
+  "success": 0.025,
+  "success_ci": [
+   0.0,
+   0.075
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "dead_bladder",
+  "level": 0,
+  "strat": "FREE",
+  "median": 11.89999999999997,
+  "p10": 5.199999999999994,
+  "success": 0.05,
+  "success_ci": [
+   0.0,
+   0.125
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "dead_bladder",
+  "level": 0,
+  "strat": "FREEr",
+  "median": 11.149999999999972,
+  "p10": 4.889999999999995,
+  "success": 0.025,
+  "success_ci": [
+   0.0,
+   0.075
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "dead_bladder",
+  "level": 0,
+  "strat": "FREE-B3r",
+  "median": 0.29999999999999893,
+  "diff_ci": [
+   0.14999999999999947,
+   0.40000000000000213
+  ],
+  "p": 3.4649632372832464e-06,
+  "p_holm": 3.8114595610115706e-05
+ },
+ {
+  "vn": "ICE",
+  "factor": "dead_bladder",
+  "level": 1,
+  "strat": "B3",
+  "median": 12.499999999999966,
+  "p10": 4.089999999999995,
+  "success": 0.075,
+  "success_ci": [
+   0.0,
+   0.175
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "dead_bladder",
+  "level": 1,
+  "strat": "B3r",
+  "median": 11.749999999999968,
+  "p10": 3.8799999999999963,
+  "success": 0.075,
+  "success_ci": [
+   0.0,
+   0.175
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "dead_bladder",
+  "level": 1,
+  "strat": "FREE",
+  "median": 11.84999999999997,
+  "p10": 4.159999999999996,
+  "success": 0.075,
+  "success_ci": [
+   0.0,
+   0.175
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "dead_bladder",
+  "level": 1,
+  "strat": "FREEr",
+  "median": 11.19999999999997,
+  "p10": 3.8599999999999963,
+  "success": 0.075,
+  "success_ci": [
+   0.0,
+   0.175
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "dead_bladder",
+  "level": 1,
+  "strat": "FREE-B3r",
+  "median": 0.2500000000000009,
+  "diff_ci": [
+   0.1999999999999993,
+   0.40000000000000213
+  ],
+  "p": 2.8662104324756013e-06,
+  "p_holm": 3.439452518970722e-05
+ },
+ {
+  "vn": "ICE",
+  "factor": "dead_bladder",
+  "level": 2,
+  "strat": "B3",
+  "median": 83.19999999999948,
+  "p10": 48.92000000000044,
+  "success": 0.9,
+  "success_ci": [
+   0.8,
+   0.975
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "dead_bladder",
+  "level": 2,
+  "strat": "B3r",
+  "median": 92.24999999999895,
+  "p10": 56.97000000000055,
+  "success": 0.975,
+  "success_ci": [
+   0.925,
+   1.0
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "dead_bladder",
+  "level": 2,
+  "strat": "FREE",
+  "median": 100.69999999999848,
+  "p10": 72.06000000000012,
+  "success": 1.0,
+  "success_ci": [
+   1.0,
+   1.0
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "dead_bladder",
+  "level": 2,
+  "strat": "FREEr",
+  "median": 98.39999999999861,
+  "p10": 73.27000000000004,
+  "success": 1.0,
+  "success_ci": [
+   1.0,
+   1.0
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "dead_bladder",
+  "level": 2,
+  "strat": "FREE-B3r",
+  "median": 13.599999999999358,
+  "diff_ci": [
+   10.5499999999994,
+   17.699999999998994
+  ],
+  "p": 4.807944247463465e-07,
+  "p_holm": 6.731121946448851e-06
+ },
+ {
+  "vn": "ICE",
+  "factor": "dead_bladder",
+  "level": 3,
+  "strat": "B3",
+  "median": 73.9,
+  "p10": 48.26000000000043,
+  "success": 0.85,
+  "success_ci": [
+   0.725,
+   0.95
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "dead_bladder",
+  "level": 3,
+  "strat": "B3r",
+  "median": 80.34999999999962,
+  "p10": 56.66000000000055,
+  "success": 0.95,
+  "success_ci": [
+   0.875,
+   1.0
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "dead_bladder",
+  "level": 3,
+  "strat": "FREE",
+  "median": 99.99999999999855,
+  "p10": 74.88999999999994,
+  "success": 1.0,
+  "success_ci": [
+   1.0,
+   1.0
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "dead_bladder",
+  "level": 3,
+  "strat": "FREEr",
+  "median": 98.6499999999986,
+  "p10": 72.94000000000007,
+  "success": 1.0,
+  "success_ci": [
+   1.0,
+   1.0
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "dead_bladder",
+  "level": 3,
+  "strat": "FREE-B3r",
+  "median": 18.399999999999256,
+  "diff_ci": [
+   15.149999999999139,
+   23.449999999999278
+  ],
+  "p": 6.139466530400189e-07,
+  "p_holm": 7.981306489520246e-06
+ },
+ {
+  "vn": "ICE",
+  "factor": "leak_mult",
+  "level": 2.0,
+  "strat": "B3",
+  "median": 102.84999999999835,
+  "p10": 50.110000000000454,
+  "success": 0.875,
+  "success_ci": [
+   0.775,
+   0.975
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "leak_mult",
+  "level": 2.0,
+  "strat": "B3r",
+  "median": 108.34999999999805,
+  "p10": 64.86000000000051,
+  "success": 0.975,
+  "success_ci": [
+   0.925,
+   1.0
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "leak_mult",
+  "level": 2.0,
+  "strat": "FREE",
+  "median": 93.99999999999886,
+  "p10": 45.660000000000394,
+  "success": 0.85,
+  "success_ci": [
+   0.725,
+   0.95
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "leak_mult",
+  "level": 2.0,
+  "strat": "FREEr",
+  "median": 102.1999999999984,
+  "p10": 59.8500000000006,
+  "success": 0.925,
+  "success_ci": [
+   0.825,
+   1.0
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "leak_mult",
+  "level": 2.0,
+  "strat": "FREE-B3r",
+  "median": -17.049999999999287,
+  "diff_ci": [
+   -20.100000000000072,
+   -8.798749999999513
+  ],
+  "p": 0.005344736331608146,
+  "p_holm": 0.03206841798964888
+ },
+ {
+  "vn": "ICE",
+  "factor": "leak_mult",
+  "level": 3.0,
+  "strat": "B3",
+  "median": 76.99999999999983,
+  "p10": 32.87000000000021,
+  "success": 0.7,
+  "success_ci": [
+   0.55,
+   0.85
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "leak_mult",
+  "level": 3.0,
+  "strat": "B3r",
+  "median": 83.04999999999947,
+  "p10": 45.060000000000386,
+  "success": 0.825,
+  "success_ci": [
+   0.7,
+   0.925
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "leak_mult",
+  "level": 3.0,
+  "strat": "FREE",
+  "median": 65.45000000000049,
+  "p10": 29.720000000000166,
+  "success": 0.675,
+  "success_ci": [
+   0.525,
+   0.825
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "leak_mult",
+  "level": 3.0,
+  "strat": "FREEr",
+  "median": 75.19999999999993,
+  "p10": 41.83000000000034,
+  "success": 0.85,
+  "success_ci": [
+   0.725,
+   0.95
+  ]
+ },
+ {
+  "vn": "ICE",
+  "factor": "leak_mult",
+  "level": 3.0,
+  "strat": "FREE-B3r",
+  "median": -13.199999999999712,
+  "diff_ci": [
+   -16.199999999999694,
+   -9.549999999999832
+  ],
+  "p": 0.003384602954611182,
+  "p_holm": 0.023692220682278275
+ }
+]

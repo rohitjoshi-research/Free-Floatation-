@@ -1,0 +1,74 @@
+{
+ "still-water entry": {
+  "expected": "deploy",
+  "correct": 1.0,
+  "n": 200,
+  "outcomes": {
+   "deploy": 200,
+   "inhibit": 0,
+   "none": 0
+  },
+  "latency_median_s": 0.925,
+  "latency_p90_s": 1.25
+ },
+ "moving-water entry": {
+  "expected": "inhibit",
+  "correct": 0.93,
+  "n": 200,
+  "outcomes": {
+   "deploy": 14,
+   "inhibit": 186,
+   "none": 0
+  },
+  "latency_median_s": 0.9500000000000001,
+  "latency_p90_s": 1.25
+ },
+ "fording 0.1-0.5 m": {
+  "expected": "none",
+  "correct": 1.0,
+  "n": 200,
+  "outcomes": {
+   "deploy": 0,
+   "inhibit": 0,
+   "none": 200
+  },
+  "latency_median_s": null,
+  "latency_p90_s": null
+ },
+ "splash / pothole": {
+  "expected": "none",
+  "correct": 1.0,
+  "n": 200,
+  "outcomes": {
+   "deploy": 0,
+   "inhibit": 0,
+   "none": 200
+  },
+  "latency_median_s": null,
+  "latency_p90_s": null
+ },
+ "car wash / heavy rain": {
+  "expected": "none",
+  "correct": 1.0,
+  "n": 200,
+  "outcomes": {
+   "deploy": 0,
+   "inhibit": 0,
+   "none": 200
+  },
+  "latency_median_s": null,
+  "latency_p90_s": null
+ },
+ "stationary in 0.3-0.6 m flood, wheels loaded": {
+  "expected": "none",
+  "correct": 1.0,
+  "n": 200,
+  "outcomes": {
+   "deploy": 0,
+   "inhibit": 0,
+   "none": 200
+  },
+  "latency_median_s": null,
+  "latency_p90_s": null
+ }
+}
